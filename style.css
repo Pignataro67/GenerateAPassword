@@ -7,11 +7,11 @@
 .slide {
   opacity: 0;
   height: 95vh;
-  width: 1055vw;
+  width: 1070vw;
   background-position: center center;
   background-size: cover;
   position: absolute;
-  top: -15vh;
+  top: -10vh;
   left: -10vw;
   transition: 0.3s ease;
   z-index: 4;
