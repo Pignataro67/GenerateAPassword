@@ -18,15 +18,7 @@ body {
   margin: 0;
 }
 
-.slide {
-  opacity: 0;
-  height: 95vh;
-  width: 1070vw;
-  background-position: center center;
-  background-size: cover;
-  position: absolute;
-  top: -15vh;
-  left: -15vw;
-  transition: 0.3s ease;
-  z-index: 4;
+h2 {
+  margin: 10px 0 20px;
+  text-align: center;
 }
