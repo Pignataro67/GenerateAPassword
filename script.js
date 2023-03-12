@@ -20,3 +20,9 @@ clipboardEl.addEventListener('click', () => {
     return;
   }
 })
+
+generateEl.addEventListener('click', () => {
+
+
+  resultEl.innerText = generatePassword(hasLower, hasUpper, hasNumber, hasSymbol, length)
+})
