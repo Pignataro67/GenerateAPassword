@@ -39,4 +39,5 @@ function generatePassword(lower, upper, number, symbol, length) {
     if(typesCount === 0) {
         return ''
     }
+    
 }
